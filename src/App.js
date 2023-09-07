@@ -16,7 +16,7 @@ function App() {
         <Route path="/sponsor" element={<Sponsor />} /> 
         <Route path="/team" element={<Team />} /> 
         <Route path="/timeline" element={<Timeline />} /> 
-        <Route path="/track" element={<Track />} /> 
+        <Route path="/track" element={<Track />} />
       </Routes>
     </BrowserRouter>
   );
